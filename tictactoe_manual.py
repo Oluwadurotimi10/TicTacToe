@@ -133,7 +133,7 @@ class tictactoe:
             choice = input().upper().strip()
             
             if choice != "X" and choice != "O" and choice != "Q":
-                print("Wrong Input !!! Please check the options again.")
+                print("Wrong Input! Please check the options again.")
                 self.start()
                 
             #assigning the players
