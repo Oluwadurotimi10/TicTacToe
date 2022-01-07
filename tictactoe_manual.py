@@ -1,8 +1,6 @@
 """
     Create a tic tac toe game which allows the players play from the CLI
-    #TODO
-    -Check out edge cases regarding wrong inputs
-    - Ensure the program stops running once any player quits
+    
 """
 #""" 
 #creating a class for the game
